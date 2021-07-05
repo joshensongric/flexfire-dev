@@ -1,2 +1,2 @@
-# flexfire-dev
+# flex-firebase
 Created with CodeSandbox
